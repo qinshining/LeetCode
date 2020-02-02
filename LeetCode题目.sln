@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. 回文数", "9. 回文数\9. 回文数.csproj", "{B5FA787E-5BF4-4BB5-870C-ACDEF37F360C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{B3E14BDC-3132-4149-8622-2017AD20BFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. 回文数Tests", "9. 回文数Tests\9. 回文数Tests.csproj", "{EE2022EE-FE89-4553-898C-156810D926B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. 盛最多水的容器", "11. 盛最多水的容器\11. 盛最多水的容器.csproj", "{624F6614-05B6-47D5-A7CC-5F8570123B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FA787E-5BF4-4BB5-870C-ACDEF37F360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FA787E-5BF4-4BB5-870C-ACDEF37F360C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FA787E-5BF4-4BB5-870C-ACDEF37F360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FA787E-5BF4-4BB5-870C-ACDEF37F360C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2022EE-FE89-4553-898C-156810D926B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2022EE-FE89-4553-898C-156810D926B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2022EE-FE89-4553-898C-156810D926B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2022EE-FE89-4553-898C-156810D926B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624F6614-05B6-47D5-A7CC-5F8570123B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624F6614-05B6-47D5-A7CC-5F8570123B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624F6614-05B6-47D5-A7CC-5F8570123B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624F6614-05B6-47D5-A7CC-5F8570123B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE2022EE-FE89-4553-898C-156810D926B4} = {B3E14BDC-3132-4149-8622-2017AD20BFFF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87EB57F6-9F61-418C-84E2-34478F9CE867}
+	EndGlobalSection
+EndGlobal
