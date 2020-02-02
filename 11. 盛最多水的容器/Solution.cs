@@ -15,7 +15,6 @@ namespace _11.盛最多水的容器
         /// <returns></returns>
         public int MaxArea(int[] height)
         {
-
             int maxArea = 0;
             int headNum = 0;
             int tailNum = height.Length - 1;
