@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. 回文数Tests", "9. 回
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. 盛最多水的容器", "11. 盛最多水的容器\11. 盛最多水的容器.csproj", "{624F6614-05B6-47D5-A7CC-5F8570123B7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. 寻找两个有序数组的中位数", "4. 寻找两个有序数组的中位数\4. 寻找两个有序数组的中位数.csproj", "{9014D55E-CF05-4CA8-B107-9382CB5FCE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. 寻找两个有序数组的中位数Tests", "4. 寻找两个有序数组的中位数Tests\4. 寻找两个有序数组的中位数Tests.csproj", "{3C5081FE-9226-41A7-A675-12013CC8A80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. 最长回文子串", "5. 最长回文子串\5. 最长回文子串.csproj", "{82EBFAF6-8B6E-4C65-9977-EB24B511B01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. 最长回文子串Tests", "5. 最长回文子串Tests\5. 最长回文子串Tests.csproj", "{7CABEE57-9ECE-4D7E-B234-165E7A2B89B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +37,30 @@ Global
 		{624F6614-05B6-47D5-A7CC-5F8570123B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{624F6614-05B6-47D5-A7CC-5F8570123B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{624F6614-05B6-47D5-A7CC-5F8570123B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9014D55E-CF05-4CA8-B107-9382CB5FCE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9014D55E-CF05-4CA8-B107-9382CB5FCE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9014D55E-CF05-4CA8-B107-9382CB5FCE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9014D55E-CF05-4CA8-B107-9382CB5FCE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5081FE-9226-41A7-A675-12013CC8A80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5081FE-9226-41A7-A675-12013CC8A80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5081FE-9226-41A7-A675-12013CC8A80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5081FE-9226-41A7-A675-12013CC8A80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EBFAF6-8B6E-4C65-9977-EB24B511B01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EBFAF6-8B6E-4C65-9977-EB24B511B01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EBFAF6-8B6E-4C65-9977-EB24B511B01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EBFAF6-8B6E-4C65-9977-EB24B511B01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CABEE57-9ECE-4D7E-B234-165E7A2B89B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CABEE57-9ECE-4D7E-B234-165E7A2B89B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CABEE57-9ECE-4D7E-B234-165E7A2B89B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CABEE57-9ECE-4D7E-B234-165E7A2B89B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EE2022EE-FE89-4553-898C-156810D926B4} = {B3E14BDC-3132-4149-8622-2017AD20BFFF}
+		{3C5081FE-9226-41A7-A675-12013CC8A80B} = {B3E14BDC-3132-4149-8622-2017AD20BFFF}
+		{7CABEE57-9ECE-4D7E-B234-165E7A2B89B8} = {B3E14BDC-3132-4149-8622-2017AD20BFFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {87EB57F6-9F61-418C-84E2-34478F9CE867}
